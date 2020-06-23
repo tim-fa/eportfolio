@@ -1,18 +1,33 @@
- ++++++++++
+
+Zelle1: 70 Zelle2: 100 Zelle3: 30	
+Schleife zur Vorbereitung der Textausgabe
+'H'			ASCII 72	Zelle 1
+'e'			ASCII 101	Zelle 2
+'l'			ASCII 108	Zelle 2
+'l'			ASCII 108	Zelle 2
+'o'			ASCII 111	Zelle 2
+Leerzeichen		ASCII 32	Zelle 3
+'W'			ASCII 87	Zelle 1
+'o'			ASCII 111	Zelle 2
+'r'			ASCII 114	Zelle 2
+'l'			ASCII 108	Zelle 2
+'d'			ASCII 100	Zelle 2
+'!'			ASCII 33	Zelle 3
+
+
+++++++++++
  [
-  >+++++++>++++++++++>+++>+<<<<-
- ]                       Schleife zur Vorbereitung der Textausgabe
- >++.                    Ausgabe von 'H'
- >+.                     Ausgabe von 'e'
- +++++++.                'l'
- .                       'l'
- +++.                    'o'
- >++.                    Leerzeichen
- <<+++++++++++++++.      'W'
- >.                      'o'
- +++.                    'r'
- ------.                 'l'
- --------.               'd'
- >+.                     '!'
- >.                      Zeilenvorschub
- +++.                    Wagenrücklauf
+  >+++++++>++++++++++>+++<<<-		Zelle1: 70 Zelle2: 100 Zelle3: 30	
+ ]                       		Schleife zur Vorbereitung der Textausgabe
+ >++.                    		'H'			ASCII 72	Zelle 1
+ >+.                     		'e'			ASCII 101	Zelle 2
+ +++++++.                		'l'			ASCII 108	Zelle 2
+ .                       		'l'			ASCII 108	Zelle 2
+ +++.                    		'o'			ASCII 111	Zelle 2
+ >++.                    		Leerzeichen		ASCII 32	Zelle 3
+ <<+++++++++++++++.      		'W'			ASCII 87	Zelle 1
+ >.                      		'o'			ASCII 111	Zelle 2
+ +++.                    		'r'			ASCII 114	Zelle 2
+ ------.                 		'l'			ASCII 108	Zelle 2
+ --------.               		'd'			ASCII 100	Zelle 2
+ >+.                     		'!'			ASCII 33	Zelle 3
